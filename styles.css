@@ -1,0 +1,75 @@
+
+
+h1,h2,h3{
+    color : purple;
+}
+
+#title-4 {
+    color: green;
+}
+
+
+
+body {
+    background-color: black;
+}
+
+
+.picture {
+    color: rgb(250, 248, 248);
+}
+
+
+div {
+    border-style: solid;
+    border-color: green;
+    background-color: rgb(199, 199, 50);
+
+}
+
+img{
+    border-style: solid;
+    border-color:purple;
+    border-width: 10px
+
+}
+
+li:nth-child(odd){
+    background-color: rgb(197, 123, 197);
+}
+
+li:nth-child(even){
+    background-color: rgb(49, 170, 49);
+}
+
+table{
+    border-collapse: collapse;
+    width: 50;
+}
+
+tr{
+    padding: 8px;
+    text-align: left;
+   background-color: rgb(190, 176, 204);
+}
+th{
+    background-color: beige;
+}
+
+
+ tr:hover{
+    background-color: rgb(20, 20, 20);
+   
+}
+
+
+
+
+   
+
+
+
+
+
+
+
